@@ -1,12 +1,12 @@
-## Digital Literacy Project
+## **Digital Literacy Project**
 
-Student Details
+## Student Details
 
-Name: Rishita
+**Name**: Rishita
 
-Registration Number: 25bsa10096
+**Registration Number**: 25bsa10096
 
-Branch: cloud computing and automation
+**Branch**: cloud computing and automation
 
 Year: 1st Year
 
